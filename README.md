@@ -1,35 +1,36 @@
 # Data-Science
 Code modules for solving Analytics problems
 
-1. Data 
-    a. Import from different sources
+#Table Of Contents
+1. Data
+    1. Import from different sources
   
 2. Data Exploration 
-  a. Univariate distributions
-  b. Missing & Outlier Treatments
-  b. Bivariate distributions
-  c. Variable Transformation & Reduction 
+    1. Univariate distributions
+    2. Missing & Outlier Treatments
+    3. Bivariate distributions
+    4. Variable Transformation & Reduction 
 
 3. Algorithms - Classification
-  a. Logistic Regression 
-  b. Naive Bayes Classifier
-  c. Chaid / Cart
-  d. Decision tree & Random Forest
-  e. SVM
-  f. Gradient Boosting & XG boost
-  g. ANN
+    1. Logistic Regression 
+    2. Naive Bayes Classifier
+    3. Chaid / Cart
+    4. Decision tree & Random Forest
+    5. SVM
+    6. Gradient Boosting & XG boost
+    7. ANN
   
 4. Model Diagnostics - Classification
-  a. Confusion Matrix
-  b. Lift Chart
-  c. ROC Curve
-  d. Precision vs Recall Graph
-  e. Sensitivity vs Specificity Graph
+    1. Confusion Matrix
+    2. Lift Chart
+    3. ROC Curve
+    4. Precision vs Recall Graph
+    5. Sensitivity vs Specificity Graph
   
 5. Validation Techniques
-  a. Split
-  b. Bootstrap
-  c. K-fold Cross Validation
-  d. Repeated k-fold Cross Validation 
-  e. Leave One Out Cross Validation 
-  f. Leave Group Out Cross Validation
+    1. Split
+    2. Bootstrap
+    3. K-fold Cross Validation
+    4. Repeated k-fold Cross Validation 
+    5. Leave One Out Cross Validation 
+    6. Leave Group Out Cross Validation
